@@ -111,7 +111,8 @@
     { "quadrant": 3, "ring": 2, "label": "Data Ethics Framework UK", "active": true, "moved": 0, "link": "https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020" },
     { "quadrant": 3, "ring": 1, "label": "AI Singapore Governance", "active": true, "moved": 0, "link": "https://www.aisingapore.org" },
     { "quadrant": 3, "ring": 2, "label": "Google AI Principles", "active": true, "moved": 0, "link": "https://ai.google/principles" },
-    { "quadrant": 3, "ring": 2, "label": "OpenAI Charter", "active": true, "moved": 0, "link": "https://www.openai.com/charter" },
+    { "quadrant": 3, "ring": 2, "label": "OpenAI Charter", "active": true, "moved": 0, "link": "https://www.openai.com" },
+
     { "quadrant": 3, "ring": 1, "label": "IBM Everyday Ethics for AI", "active": true, "moved": 0, "link": "https://www.ibm.com/watson/assets/duo/pdf/everydayethics.pdf" },
     { "quadrant": 3, "ring": 2, "label": "Council of Europe - AI", "active": true, "moved": 0, "link": "https://www.coe.int/en/web/artificial-intelligence" },
     { "quadrant": 3, "ring": 2, "label": "World Economic Forum AI Governance", "active": true, "moved": 0, "link": "https://www.weforum.org/projects/global-ai-council" },
