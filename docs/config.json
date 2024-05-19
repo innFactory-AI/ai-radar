@@ -1,463 +1,116 @@
 {
   "date": "2024.05",
   "entries": [
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "ChatGPT",
-      "link": "https://chat.openai.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Gemini",
-      "link": "hhttps://gemini.google.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Midjourney",
-      "link": "https://www.midjourney.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Firefly",
-      "link": "https://www.adobe.com/sensei/generative-ai/firefly.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "docustruct",
-      "link": "https://docustruct.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 1,
-      "label": "Jasper",
-      "link": "https://www.jasper.ai/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 1,
-      "label": "Synthesia",
-      "link": "https://www.synthesia.io/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 1,
-      "label": "Copy.ai",
-      "link": "https://www.copy.ai/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 1,
-      "label": "Replika",
-      "link": "https://replika.ai/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 2,
-      "label": "Frase",
-      "link": "https://www.frase.io/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 2,
-      "label": "Writesonic",
-      "link": "https://writesonic.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 2,
-      "label": "SurferSEO",
-      "link": "https://surferseo.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Cortex",
-      "link": "https://www.cortex.io/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Persado",
-      "link": "https://www.persado.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Pictory",
-      "link": "https://pictory.ai/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Mistral",
-      "link": "https://mistral.ai/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "LLama 3",
-      "link": "https://ai.facebook.com/tools/llama/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "LLama 2",
-      "link": "https://ai.facebook.com/tools/llama/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "GPT-3",
-      "link": "https://beta.openai.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "GPT-4",
-      "link": "https://openai.com/research/gpt-4",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Gemini",
-      "link": "https://gemini.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Aleph Alpha",
-      "link": "https://www.aleph-alpha.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "flowise ai",
-      "link": "https://flowiseai.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "PyTorch",
-      "link": "https://pytorch.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "TensorFlow",
-      "link": "https://www.tensorflow.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Scikit-learn",
-      "link": "https://scikit-learn.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "Hugging Face",
-      "link": "https://huggingface.co/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "FastAPI",
-      "link": "https://fastapi.tiangolo.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Streamlit",
-      "link": "https://streamlit.io/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Haystack",
-      "link": "https://haystack.deepset.ai/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "Spark MLlib",
-      "link": "https://spark.apache.org/mllib/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "sordi.ai",
-      "link": "https://sordi.ai/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "AI Summit",
-      "link": "https://theaisummit.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "Towards Data Science",
-      "link": "https://towardsdatascience.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "Medium AI",
-      "link": "https://medium.com/topic/artificial-intelligence",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "AI Alignment",
-      "link": "https://www.alignmentforum.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "DeepMind Blog",
-      "link": "https://deepmind.com/blog",
-      "active": true,
-     
+    { "quadrant": 0, "ring": 0, "label": "ChatGPT", "active": true, "moved": 0, "link": "https://www.openai.com/chatgpt" },
+    { "quadrant": 0, "ring": 0, "label": "Gemini", "active": true, "moved": 0, "link": "https://ai.google/gemini" },
+    { "quadrant": 0, "ring": 1, "label": "Midjourney", "active": true, "moved": 0, "link": "https://www.midjourney.com" },
+    { "quadrant": 0, "ring": 1, "label": "Firefly", "active": true, "moved": 0, "link": "https://www.adobe.com/sensei/generative-ai/firefly.html" },
+    { "quadrant": 0, "ring": 2, "label": "Bard", "active": true, "moved": 0, "link": "https://bard.google.com" },
+    { "quadrant": 0, "ring": 0, "label": "DALL-E", "active": true, "moved": 0, "link": "https://www.openai.com/dall-e-2" },
+    { "quadrant": 0, "ring": 0, "label": "Copilot", "active": true, "moved": 0, "link": "https://copilot.github.com" },
+    { "quadrant": 0, "ring": 1, "label": "Claude", "active": true, "moved": 0, "link": "https://www.anthropic.com" },
+    { "quadrant": 0, "ring": 0, "label": "Jasper", "active": true, "moved": 0, "link": "https://www.jasper.ai" },
+    { "quadrant": 0, "ring": 1, "label": "Synthesia", "active": true, "moved": 0, "link": "https://www.synthesia.io" },
+    { "quadrant": 0, "ring": 2, "label": "RunwayML", "active": true, "moved": 0, "link": "https://runwayml.com" },
+    { "quadrant": 0, "ring": 0, "label": "Lumen5", "active": true, "moved": 0, "link": "https://www.lumen5.com" },
+    { "quadrant": 0, "ring": 0, "label": "Notion AI", "active": true, "moved": 0, "link": "https://www.notion.so/product/ai" },
+    { "quadrant": 0, "ring": 1, "label": "Copy.ai", "active": true, "moved": 0, "link": "https://www.copy.ai" },
+    { "quadrant": 0, "ring": 0, "label": "Frase", "active": true, "moved": 0, "link": "https://www.frase.io" },
+    { "quadrant": 0, "ring": 2, "label": "Surfer SEO", "active": true, "moved": 0, "link": "https://www.surferseo.com" },
+    { "quadrant": 0, "ring": 0, "label": "Writesonic", "active": true, "moved": 0, "link": "https://writesonic.com" },
+    { "quadrant": 0, "ring": 1, "label": "Descript", "active": true, "moved": 0, "link": "https://www.descript.com" },
+    { "quadrant": 0, "ring": 2, "label": "AIVA", "active": true, "moved": 0, "link": "https://www.aiva.ai" },
+    { "quadrant": 0, "ring": 0, "label": "Synthesys", "active": true, "moved": 0, "link": "https://synthesys.io" },
 
- "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "OpenAI Blog",
-      "link": "https://openai.com/blog/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 2,
-      "label": "Lex Fridman Podcast",
-      "link": "https://lexfridman.com/podcast/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 2,
-      "label": "AI Ethics",
-      "link": "https://aiethicsjournal.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Artificial Intelligence Podcast",
-      "link": "https://www.artificialintelligencepodcast.com/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Stanford AI",
-      "link": "https://ai.stanford.edu/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Berkeley AI",
-      "link": "https://bair.berkeley.edu/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "AI Alignment Podcast",
-      "link": "https://www.alignmentforum.org/tag/podcast",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "RAG",
-      "link": "https://www.microsoft.com/en-us/ai/research-accelerator",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "MLOps",
-      "link": "https://mlops.community/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Kubeflow",
-      "link": "https://www.kubeflow.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "MLflow",
-      "link": "https://mlflow.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "Metaflow",
-      "link": "https://metaflow.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "Flyte",
-      "link": "https://flyte.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "Great Expectations",
-      "link": "https://greatexpectations.io/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "DVC",
-      "link": "https://dvc.org/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "Feast",
-      "link": "https://feast.dev/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "TensorBoard",
-      "link": "https://www.tensorflow.org/tensorboard",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 3,
-      "label": "ClearML",
-      "link": "https://clear.ml/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 3,
-      "label": "Neptune.ai",
-      "link": "https://neptune.ai/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 3,
-      "label": "ZenML",
-      "link": "https://zenml.io/",
-      "active": true,
-      "moved": 0
-    }
+    { "quadrant": 1, "ring": 0, "label": "GPT-4", "active": true, "moved": 0, "link": "https://www.openai.com/research/gpt-4" },
+    { "quadrant": 1, "ring": 0, "label": "Gemini", "active": true, "moved": 0, "link": "https://ai.google/gemini" },
+    { "quadrant": 1, "ring": 0, "label": "PyTorch", "active": true, "moved": 0, "link": "https://pytorch.org" },
+    { "quadrant": 1, "ring": 0, "label": "TensorFlow", "active": true, "moved": 0, "link": "https://www.tensorflow.org" },
+    { "quadrant": 1, "ring": 0, "label": "Scikit-learn", "active": true, "moved": 0, "link": "https://scikit-learn.org" },
+    { "quadrant": 1, "ring": 0, "label": "Keras", "active": true, "moved": 0, "link": "https://keras.io" },
+    { "quadrant": 1, "ring": 1, "label": "Hugging Face Transformers", "active": true, "moved": 0, "link": "https://huggingface.co/transformers" },
+    { "quadrant": 1, "ring": 1, "label": "spaCy", "active": true, "moved": 0, "link": "https://spacy.io" },
+    { "quadrant": 1, "ring": 0, "label": "NLTK", "active": true, "moved": 0, "link": "https://www.nltk.org" },
+    { "quadrant": 1, "ring": 2, "label": "OpenCV", "active": true, "moved": 0, "link": "https://opencv.org" },
+    { "quadrant": 1, "ring": 1, "label": "ONNX", "active": true, "moved": 0, "link": "https://onnx.ai" },
+    { "quadrant": 1, "ring": 0, "label": "TorchServe", "active": true, "moved": 0, "link": "https://pytorch.org/serve" },
+    { "quadrant": 1, "ring": 1, "label": "MXNet", "active": true, "moved": 0, "link": "https://mxnet.apache.org" },
+    { "quadrant": 1, "ring": 2, "label": "Chainer", "active": true, "moved": 0, "link": "https://chainer.org" },
+    { "quadrant": 1, "ring": 1, "label": "JAX", "active": true, "moved": 0, "link": "https://jax.readthedocs.io" },
+    { "quadrant": 1, "ring": 2, "label": "Theano", "active": true, "moved": 0, "link": "http://deeplearning.net/software/theano/" },
+    { "quadrant": 1, "ring": 1, "label": "CNTK", "active": true, "moved": 0, "link": "https://github.com/microsoft/CNTK" },
+    { "quadrant": 1, "ring": 2, "label": "DeepSpeed", "active": true, "moved": 0, "link": "https://www.deepspeed.ai" },
+    { "quadrant": 1, "ring": 1, "label": "DL4J", "active": true, "moved": 0, "link": "https://deeplearning4j.org" },
+    { "quadrant": 1, "ring": 1, "label": "Fast.ai", "active": true, "moved": 0, "link": "https://www.fast.ai" },
+    { "quadrant": 1, "ring": 2, "label": "LightGBM", "active": true, "moved": 0, "link": "https://lightgbm.readthedocs.io" },
+    { "quadrant": 1, "ring": 2, "label": "CatBoost", "active": true, "moved": 0, "link": "https://catboost.ai" },
+    { "quadrant": 1, "ring": 2, "label": "XGBoost", "active": true, "moved": 0, "link": "https://xgboost.readthedocs.io" },
+    { "quadrant": 1, "ring": 1, "label": "H2O.ai", "active": true, "moved": 0, "link": "https://www.h2o.ai" },
+    { "quadrant": 1, "ring": 2, "label": "Flax", "active": true, "moved": 0, "link": "https://flax.readthedocs.io" },
+    { "quadrant": 1, "ring": 1, "label": "Dask-ML", "active": true, "moved": 0, "link": "https://ml.dask.org" },
+    { "quadrant": 1, "ring": 2, "label": "Prophet", "active": true, "moved": 0, "link": "https://facebook.github.io/prophet" },
+    { "quadrant": 1, "ring": 2, "label": "Gluon", "active": true, "moved": 0, "link": "https://gluon.mxnet.io" },
+    { "quadrant": 1, "ring": 1, "label": "AllenNLP", "active": true, "moved": 0, "link": "https://allennlp.org" },
+    { "quadrant": 1, "ring": 1, "label": "Detectron2", "active": true, "moved": 0, "link": "https://github.com/facebookresearch/detectron2" },
+    { "quadrant": 1, "ring": 1, "label": "Albumentations", "active": true, "moved": 0, "link": "https://albumentations.ai" },
+    { "quadrant": 1, "ring": 2, "label": "OpenNMT", "active": true, "moved": 0, "link": "https://opennmt.net" },
+    { "quadrant": 1, "ring": 1, "label": "Fairseq", "active": true, "moved": 0, "link": "https://fairseq.readthedocs.io" },
+    { "quadrant": 1, "ring": 2, "label": "PyTorch Lightning", "active": true, "moved": 0, "link": "https://www.pytorchlightning.ai" },
+    { "quadrant": 1, "ring": 1, "label": "KubeFlow", "active": true, "moved": 0, "link": "https://www.kubeflow.org" },
+    { "quadrant": 1, "ring": 1, "label": "Horovod", "active": true, "moved": 0, "link": "https://horovod.ai" },
+
+    { "quadrant": 2, "ring": 0, "label": "DeepMind Blog", "active": true, "moved": 0, "link": "https://www.deepmind.com/blog" },
+    { "quadrant": 2, "ring": 0, "label": "OpenAI Blog", "active": true, "moved": 0, "link": "https://www.openai.com/blog" },
+    { "quadrant": 2, "ring": 1, "label": "Google AI Blog", "active": true, "moved": 0, "link": "https://ai.googleblog.com" },
+    { "quadrant": 2, "ring": 1, "label": "Facebook AI Blog", "active": true, "moved": 0, "link": "https://ai.facebook.com/blog" },
+    { "quadrant": 2, "ring": 0, "label": "arXiv", "active": true, "moved": 0, "link": "https://arxiv.org" },
+    { "quadrant": 2, "ring": 1, "label": "Towards Data Science", "active": true, "moved": 0, "link": "https://towardsdatascience.com" },
+    { "quadrant": 2, "ring": 2, "label": "The Gradient", "active": true, "moved": 0, "link": "https://thegradient.pub" },
+    { "quadrant": 2, "ring": 2, "label": "Distill", "active": true, "moved": 0, "link": "https://distill.pub" },
+    { "quadrant": 2, "ring": 1, "label": "MIT Technology Review AI", "active": true, "moved": 0, "link": "https://www.technologyreview.com/ai" },
+    { "quadrant": 2, "ring": 2, "label": "AI Alignment Forum", "active": true, "moved": 0, "link": "https://www.alignmentforum.org" },
+    { "quadrant": 2, "ring": 2, "label": "LessWrong", "active": true, "moved": 0, "link": "https://www.lesswrong.com" },
+    { "quadrant": 2, "ring": 0, "label": "KDnuggets", "active": true, "moved": 0, "link": "https://www.kdnuggets.com" },
+    { "quadrant": 2, "ring": 1, "label": "Analytics Vidhya", "active": true, "moved": 0, "link": "https://www.analyticsvidhya.com" },
+    { "quadrant": 2, "ring": 2, "label": "Data Science Central", "active": true, "moved": 0, "link": "https://www.datasciencecentral.com" },
+    { "quadrant": 2, "ring": 2, "label": "Machine Learning Mastery", "active": true, "moved": 0, "link": "https://machinelearningmastery.com" },
+    { "quadrant": 2, "ring": 0, "label": "Fast.ai Blog", "active": true, "moved": 0, "link": "https://www.fast.ai" },
+    { "quadrant": 2, "ring": 1, "label": "The AI Report", "active": true, "moved": 0, "link": "https://www.thereport.ai" },
+    { "quadrant": 2, "ring": 2, "label": "AI Trends", "active": true, "moved": 0, "link": "https://www.aitrends.com" },
+    { "quadrant": 2, "ring": 1, "label": "InfoQ AI", "active": true, "moved": 0, "link": "https://www.infoq.com/ai-ml-data-engineering" },
+    { "quadrant": 2, "ring": 2, "label": "Reddit r/MachineLearning", "active": true, "moved": 0, "link": "https://www.reddit.com/r/MachineLearning" },
+
+    { "quadrant": 3, "ring": 0, "label": "RAG", "active": true, "moved": 0, "link": "https://towardsdatascience.com/retrieval-augmented-generation-rag-36ab4a01b4ec" },
+    { "quadrant": 3, "ring": 0, "label": "MLOps", "active": true, "moved": 0, "link": "https://ml-ops.org" },
+    { "quadrant": 3, "ring": 1, "label": "MLFlow", "active": true, "moved": 0, "link": "https://mlflow.org" },
+    { "quadrant": 3, "ring": 1, "label": "Kubeflow", "active": true, "moved": 0, "link": "https://www.kubeflow.org" },
+    { "quadrant": 3, "ring": 1, "label": "DVC", "active": true, "moved": 0, "link": "https://dvc.org" },
+    { "quadrant": 3, "ring": 0, "label": "Airflow", "active": true, "moved": 0, "link": "https://airflow.apache.org" },
+    { "quadrant": 3, "ring": 1, "label": "Great Expectations", "active": true, "moved": 0, "link": "https://greatexpectations.io" },
+    { "quadrant": 3, "ring": 0, "label": "Dagster", "active": true, "moved": 0, "link": "https://dagster.io" },
+    { "quadrant": 3, "ring": 1, "label": "Feast", "active": true, "moved": 0, "link": "https://feast.dev" },
+    { "quadrant": 3, "ring": 2, "label": "Seldon", "active": true, "moved": 0, "link": "https://www.seldon.io" },
+    { "quadrant": 3, "ring": 2, "label": "MLRun", "active": true, "moved": 0, "link": "https://www.mlrun.org" },
+    { "quadrant": 3, "ring": 1, "label": "ClearML", "active": true, "moved": 0, "link": "https://clear.ml" },
+    { "quadrant": 3, "ring": 1, "label": "Neptune.ai", "active": true, "moved": 0, "link": "https://neptune.ai" },
+    { "quadrant": 3, "ring": 2, "label": "Weights & Biases", "active": true, "moved": 0, "link": "https://www.wandb.com" },
+    { "quadrant": 3, "ring": 1, "label": "Flyte", "active": true, "moved": 0, "link": "https://flyte.org" },
+    { "quadrant": 3, "ring": 0, "label": "Tecton", "active": true, "moved": 0, "link": "https://www.tecton.ai" },
+    { "quadrant": 3, "ring": 2, "label": "ZenML", "active": true, "moved": 0, "link": "https://zenml.io" },
+    { "quadrant": 3, "ring": 1, "label": "Metaflow", "active": true, "moved": 0, "link": "https://metaflow.org" },
+    { "quadrant": 3, "ring": 2, "label": "Polyaxon", "active": true, "moved": 0, "link": "https://polyaxon.com" },
+    { "quadrant": 3, "ring": 1, "label": "Argo", "active": true, "moved": 0, "link": "https://argoproj.github.io" }
+  ],
+  "quadrants": [
+    { "name": "AI-Tools" },
+    { "name": "Models & Frameworks" },
+    { "name": "Talks & Knowledge" },
+    { "name": "Best Practices" }
+  ],
+  "rings": [
+    { "name": "ADOPT", "color": "#5ba300" },
+    { "name": "TRIAL", "color": "#009eb0" },
+    { "name": "ASSESS", "color": "#c7ba00" },
+    { "name": "HOLD", "color": "#e09b96" }
   ]
 }
