@@ -2,551 +2,442 @@
   "date": "2024.04",
   "entries": [
     {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "AWS Athena",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 0,
-      "label": "AWS EMR",
+      "label": "ChatGPT",
+      "link": "https://chat.openai.com/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "AWS Glue",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "AWS Lake Formation",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 0,
-      "label": "Airflow",
+      "label": "Gemini",
+      "link": "https://gemini.com/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 0,
-      "label": "Databricks",
+      "label": "Midjourney",
+      "link": "https://www.midjourney.com/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
+      "ring": 0,
+      "label": "Firefly",
+      "link": "https://www.adobe.com/sensei/generative-ai/firefly.html",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "docustruct",
+      "link": "https://docustruct.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
       "ring": 1,
-      "label": "Flink",
-      "link": "https://engineering.zalando.com/tags/apache-flink.html",
+      "label": "Jasper",
+      "link": "https://www.jasper.ai/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 1,
-      "label": "Google BigQuery",
+      "label": "Synthesia",
+      "link": "https://www.synthesia.io/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
       "ring": 1,
-      "label": "Presto",
+      "label": "Copy.ai",
+      "link": "https://www.copy.ai/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 0,
+      "ring": 1,
+      "label": "Replika",
+      "link": "https://replika.ai/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Frase",
+      "link": "https://www.frase.io/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "Writesonic",
+      "link": "https://writesonic.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 2,
+      "label": "SurferSEO",
+      "link": "https://surferseo.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Cortex",
+      "link": "https://www.cortex.io/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Persado",
+      "link": "https://www.persado.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Pictory",
+      "link": "https://pictory.ai/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 0,
-      "label": "Spark",
-      "link": "https://engineering.zalando.com/tags/apache-spark.html",
+      "label": "Mistral",
+      "link": "https://mistral.ai/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 3,
+      "quadrant": 1,
+      "ring": 0,
+      "label": "LLama 3",
+      "link": "https://ai.facebook.com/tools/llama/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 3,
+      "label": "LLama 2",
+      "link": "https://ai.facebook.com/tools/llama/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "GPT-3",
+      "link": "https://beta.openai.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "GPT-4",
+      "link": "https://openai.com/research/gpt-4",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Gemini",
+      "link": "https://gemini.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Aleph Alpha",
+      "link": "https://www.aleph-alpha.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "flowise ai",
+      "link": "https://flowiseai.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "Hugging Face",
+      "link": "https://huggingface.co/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 1,
+      "label": "FastAPI",
+      "link": "https://fastapi.tiangolo.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 2,
       "label": "Streamlit",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "dbt",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "AWS DynamoDB",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "AWS S3",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 2,
-      "label": "Amazon MemoryDB",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "Amazon Redshift",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "Amazon Feature Store",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Apache Cassandra",
-      "link": "https://engineering.zalando.com/tags/cassandra.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Consul",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "Druid",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "Elasticsearch",
-      "link": "https://engineering.zalando.com/tags/elasticsearch.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "Exasol",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "HBase",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 1,
-      "label": "HDFS",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Hazelcast",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Memcached",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "MongoDB",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "MySQL",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Oracle DB",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "PostgreSQL",
-      "link": "https://engineering.zalando.com/tags/postgresql.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "Redis",
-      "link": "https://engineering.zalando.com/tags/redis.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 2,
-      "label": "RocksDB",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "Solr",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 3,
-      "label": "ZooKeeper",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "etcd",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "AWS CloudFormation",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "AWS CloudFront",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "AWS Elemental MediaConvert",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "AWS Lambda",
+      "link": "https://streamlit.io/",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 1,
       "ring": 2,
-      "label": "AWS Service Catalog",
-      "active": true,
-      "moved": 1
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "AWS Step Functions",
+      "label": "Haystack",
+      "link": "https://haystack.deepset.ai/",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 1,
-      "ring": 2,
-      "label": "Amazon Bedrock",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Amazon Pinpoint",
-      "active": true,
-      "moved": 1
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Amazon SageMaker",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Docker",
-      "link": "https://engineering.zalando.com/tags/docker.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "GraalVM",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Kotlin Multiplatform",
-      "active": true,
-      "moved": 1
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Kubernetes",
-      "link": "https://engineering.zalando.com/tags/kubernetes.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "Open Policy Agent",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "OpenTracing",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Skipper",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Slurm",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "WebAssembly",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "ZMON",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
       "ring": 3,
-      "label": "Clojure",
-      "link": "https://engineering.zalando.com/tags/clojure.html",
+      "label": "Keras",
+      "link": "https://keras.io/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 1,
+      "ring": 3,
+      "label": "TensorFlow",
+      "link": "https://www.tensorflow.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "sordi.ai",
+      "link": "https://sordi.ai/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "AI Summit",
+      "link": "https://theaisummit.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Towards Data Science",
+      "link": "https://towardsdatascience.com/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "Medium AI",
+      "link": "https://medium.com/topic/artificial-intelligence",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "AI Alignment",
+      "link": "https://www.alignmentforum.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 1,
-      "label": "Dart",
+      "label": "DeepMind Blog",
+      "link": "https://deepmind.com/blog",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Go",
-      "link": "https://engineering.zalando.com/tags/golang.html",
+      "quadrant": 2,
+      "ring": 1,
+      "label": "OpenAI Blog",
+      "link": "https://openai.com/blog/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "GraphQL",
-      "link": "https://engineering.zalando.com/tags/graphql.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 3,
-      "label": "Haskell",
-      "link": "https://engineering.zalando.com/tags/haskell.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Java",
-      "link": "https://engineering.zalando.com/tags/java.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "JavaScript",
-      "link": "https://engineering.zalando.com/tags/javascript.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Kotlin",
-      "link": "https://engineering.zalando.com/tags/kotlin.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "OpenAPI (Swagger)",
-      "link": "https://engineering.zalando.com/tags/openapi.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Python",
-      "link": "https://engineering.zalando.com/tags/python.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 0,
+      "quadrant": 2,
       "ring": 2,
-      "label": "R",
+      "label": "Lex Fridman Podcast",
+      "link": "https://lexfridman.com/podcast/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
+      "quadrant": 2,
+      "ring": 2,
+      "label": "AI Ethics",
+      "link": "https://aiethicsjournal.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
       "ring": 3,
-      "label": "Rust",
-      "link": "https://engineering.zalando.com/tags/rust.html",
+      "label": "Artificial Intelligence Podcast",
+      "link": "https://www.artificialintelligencepodcast.com/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Scala",
-      "link": "https://engineering.zalando.com/tags/scala.html",
+      "quadrant": 2,
+      "ring": 3,
+      "label": "Stanford AI",
+      "link": "https://ai.stanford.edu/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "Swift",
-      "link": "https://engineering.zalando.com/tags/swift.html",
+      "quadrant": 2,
+      "ring": 3,
+      "label": "Berkeley AI",
+      "link": "https://bair.berkeley.edu/",
       "active": true,
       "moved": 0
     },
     {
-      "quadrant": 0,
-      "ring": 0,
-      "label": "TypeScript",
-      "link": "https://engineering.zalando.com/tags/typescript.html",
+      "quadrant": 2,
+      "ring": 3,
+      "label": "AI Alignment Podcast",
+      "link": "https://www.alignmentforum.org/tag/podcast",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "AWS Kinesis",
+      "label": "RAG",
+      "link": "https://www.microsoft.com/en-us/ai/research-accelerator",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "AWS SNS",
+      "label": "MLOps",
+      "link": "https://mlops.community/",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 0,
-      "label": "AWS SQS",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Kafka",
-      "link": "https://engineering.zalando.com/tags/apache-kafka.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Nakadi",
-      "link": "https://nakadi.io",
+      "label": "Kubeflow",
+      "link": "https://www.kubeflow.org/",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 1,
-      "label": "RabbitMQ",
-      "link": "https://engineering.zalando.com/tags/rabbitmq.html",
+      "label": "MLflow",
+      "link": "https://mlflow.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Metaflow",
+      "link": "https://metaflow.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "Flyte",
+      "link": "https://flyte.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Great Expectations",
+      "link": "https://greatexpectations.io/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "DVC",
+      "link": "https://dvc.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "Feast",
+      "link": "https://feast.dev/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 2,
+      "label": "TensorBoard",
+      "link": "https://www.tensorflow.org/tensorboard",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "ClearML",
+      "link": "https://clear.ml/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Neptune.ai",
+      "link": "https://neptune.ai/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "ZenML",
+      "link": "https://zenml.io/",
       "active": true,
       "moved": 0
     }
