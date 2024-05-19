@@ -1,7 +1,6 @@
 {
   "date": "2024.05",
   "entries": [
-    // AI-Tools
     { "quadrant": 0, "ring": 0, "label": "ChatGPT", "active": true, "moved": 0, "link": "https://www.openai.com/chatgpt" },
     { "quadrant": 0, "ring": 0, "label": "Gemini", "active": true, "moved": 0, "link": "https://ai.google/gemini" },
     { "quadrant": 0, "ring": 1, "label": "Midjourney", "active": true, "moved": 0, "link": "https://www.midjourney.com" },
