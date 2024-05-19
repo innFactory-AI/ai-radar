@@ -147,7 +147,7 @@
     },
     {
       "quadrant": 1,
-      "ring": 0,
+      "ring": 3,
       "label": "GPT-3",
       "link": "https://beta.openai.com/",
       "active": true,
@@ -187,6 +187,30 @@
     },
     {
       "quadrant": 1,
+      "ring": 0,
+      "label": "PyTorch",
+      "link": "https://pytorch.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "TensorFlow",
+      "link": "https://www.tensorflow.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Scikit-learn",
+      "link": "https://scikit-learn.org/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 1,
       "ring": 1,
       "label": "Hugging Face",
       "link": "https://huggingface.co/",
@@ -220,16 +244,8 @@
     {
       "quadrant": 1,
       "ring": 3,
-      "label": "Keras",
-      "link": "https://keras.io/",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 3,
-      "label": "TensorFlow",
-      "link": "https://www.tensorflow.org/",
+      "label": "Spark MLlib",
+      "link": "https://spark.apache.org/mllib/",
       "active": true,
       "moved": 0
     },
@@ -279,7 +295,9 @@
       "label": "DeepMind Blog",
       "link": "https://deepmind.com/blog",
       "active": true,
-      "moved": 0
+     
+
+ "moved": 0
     },
     {
       "quadrant": 2,
