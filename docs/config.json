@@ -27,6 +27,6 @@
     
     { "quadrant": 3, "ring": 0, "label": "GDPR", "active": true, "moved": 0, "link": "https://commission.europa.eu/law/law-topic/data-protection_de" },
     { "quadrant": 3, "ring": 1, "label": "AI Act", "active": true, "moved": 0, "link": "https://artificialintelligenceact.eu/de/" },
-    { "quadrant": 3, "ring": 2, "label": "Google AI Principles", "active": true, "moved": 0, "link": "https://ai.google/principles" },
+    { "quadrant": 3, "ring": 2, "label": "Google AI Principles", "active": true, "moved": 0, "link": "https://ai.google/principles" }
     ]
 }
